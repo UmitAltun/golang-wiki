@@ -1146,6 +1146,7 @@ Certificate Expiry Monitor Controller monitors the expiration of TLS certificate
 
 ## Turkey
   * [Admongrel](http://www.admongrel.com/)
+  * [Magnec](https://www.magnec.com/)
   * [Frigbo](https://frigbo.com/)
   * [Hepiyo](https://hepiyo.com/)
   * [icibot](https://icibot.com/)
